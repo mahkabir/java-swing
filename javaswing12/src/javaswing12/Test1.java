@@ -7,7 +7,7 @@ public class Test1 {
     {
         
         String name = JOptionPane.showInputDialog("enter your name :");
-        JOptionPane.showMessageDialog(null, name + " welcome to swing");
+        JOptionPane.showMessageDialog(null, name + " welcome to the World ");
 }
     
     
